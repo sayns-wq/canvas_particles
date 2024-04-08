@@ -1,5 +1,19 @@
 body {
   margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
   overflow: hidden;
+}
+.balls {
+  margin: 0%;
+  overflow: hidden;
+  background: rgb(20, 25, 45);
+}
+.bezie {
+  background: rgb(0, 0, 0);
+}
+
+.curcle canvas,
+.gradient canvas {
   background: rgb(20, 25, 45);
 }
