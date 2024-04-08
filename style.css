@@ -14,6 +14,7 @@ body {
 }
 
 .curcle canvas,
-.gradient canvas {
+.gradient canvas,
+.hexGrid canvas {
   background: rgb(20, 25, 45);
 }
