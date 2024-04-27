@@ -39,6 +39,7 @@ class Animation {
     this.framesCounter = 0;
     this.typeStart = 0;
     this.typeEnd = 0;
+    //
   }
   init() {
     this.createCanvas();
